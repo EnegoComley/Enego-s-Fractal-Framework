@@ -7,7 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfe8a1ea-42ff-4051-9d1e-1ca0c5adfbab" name="Changes" comment="" />
+    <list default="true" id="dfe8a1ea-42ff-4051-9d1e-1ca0c5adfbab" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FractalFrameworkWPF/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FractalFrameworkWPF/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FractalFrameworkWPF/Classes/RgbaArray.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FractalFrameworkWPF/Classes/RgbaArray.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666178614613</updated>
       <workItem from="1666178617362" duration="919000" />
-      <workItem from="1666179559215" duration="298000" />
+      <workItem from="1666179559215" duration="3555000" />
     </task>
     <servers />
   </component>
